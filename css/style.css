@@ -28,3 +28,46 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  h1 {
+    font-size: 25px;
+    color: navy;
+    text-align: center;
+    
+  }
+  p1 {
+  font-size: 15px;
+  color: navy;
+  text-align: center;
+}
+
+  h2 {
+     font-size: 25px;
+    color: navy;
+    text-align: center;
+    
+  }
+
+  p2 {
+    font-size: 15px;
+    color: navy;
+    text-align: center;
+  }
+
+  h3 {
+     font-size: 25px;
+    color: navy;
+    text-align: center;
+    
+  }
+
+  p3 {
+    font-size: 15px;
+    color: navy;
+    text-align: center;
+  }
